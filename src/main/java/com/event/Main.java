@@ -1,11 +1,5 @@
 package com.event;
 
-import java.time.LocalDateTime;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
-import java.util.Stack;
-
 import com.event.command.Command;
 import com.event.command.ConcreteCommand;
 import com.event.manager.EventManager;
@@ -14,6 +8,11 @@ import com.event.strategy.DateSearchStrategy;
 import com.event.strategy.NameSearchStrategy;
 import com.event.strategy.SearchStrategy;
 import com.event.strategy.TagSearchStrategy;
+import java.time.LocalDateTime;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+import java.util.Stack;
 
 public class Main {
     private static final Scanner scanner = new Scanner(System.in);
@@ -22,7 +21,7 @@ public class Main {
 
     public static void main(String[] args) {
         while (true) {
-            System.out.println("\n=== EVENT MANAGEMENT SYSTEM ===");
+            System.out.println("\n=== EVENT MENAGEMENT SYSTEM ===");
             System.out.println("1. Create Event");
             System.out.println("2. Modify Event");
             System.out.println("3. Search Event");
