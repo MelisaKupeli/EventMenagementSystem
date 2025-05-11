@@ -1,0 +1,14 @@
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/Main.java
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/adapter/EventData.java
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/adapter/LegacyEvent.java
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/adapter/LegacyEventAdapter.java
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/command/Command.java
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/command/ConcreteCommand.java
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/command/Invoker.java
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/command/Receiver.java
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/manager/EventManager.java
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/model/Event.java
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/strategy/DateSearchStrategy.java
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/strategy/NameSearchStrategy.java
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/strategy/SearchStrategy.java
+/Users/melisa/Projects/Java/event-management-system/src/main/java/com/event/strategy/TagSearchStrategy.java
